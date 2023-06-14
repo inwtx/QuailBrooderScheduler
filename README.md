@@ -4,9 +4,13 @@ Click on the 'QuailBrooderScheduler.zip' file above and then click on the ![imag
 button on the right side of page<BR>
 to download. 
 <BR><BR>
-  ![image](https://github.com/inwtx/QuailBrooderScheduler/assets/32821617/fec54fca-440c-4f9e-a61f-0eb0c31162f6)
+![image](https://github.com/inwtx/QuailBrooderScheduler/assets/32821617/fec54fca-440c-4f9e-a61f-0eb0c31162f6)
 <BR><BR>
 Parameters:
 <BR><BR>
 ![image](https://github.com/inwtx/QuailBrooderScheduler/assets/32821617/ea938837-ba1c-4b09-b067-99f940bf80d4)
-  
+<BR>  
+Help:
+<BR><BR>
+![image](https://github.com/inwtx/QuailBrooderScheduler/assets/32821617/3d70ca7d-5e6e-4633-8fd4-94504d09e21d)
+<BR><BR>  
