@@ -8,7 +8,7 @@ to download.
 <BR><BR>
 Parameters:
 <BR><BR>
-![image](https://github.com/inwtx/QuailBrooderScheduler/assets/32821617/c171127d-364e-4a69-a2f4-3b8fceb7b536)
+![image](https://github.com/inwtx/QuailBrooderScheduler/assets/32821617/d4677e58-4f85-4e65-b5f5-4a3917d7274e)
 <BR>  
 Help:
 <BR><BR>
