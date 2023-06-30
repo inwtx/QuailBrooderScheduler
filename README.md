@@ -12,5 +12,5 @@ Parameters:
 <BR>  
 Help:
 <BR><BR>
-![image](https://github.com/inwtx/QuailBrooderScheduler/assets/32821617/3d70ca7d-5e6e-4633-8fd4-94504d09e21d)
+![image](https://github.com/inwtx/QuailBrooderScheduler/assets/32821617/6b76a945-65f8-4683-a2ce-7dd90991b4c3)
 <BR><BR>  
